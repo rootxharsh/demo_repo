@@ -1,1 +1,1 @@
-<?php echo $_GET['s']; ?>
+<?php echo htmlspecialchars($_GET['s']); ?>
